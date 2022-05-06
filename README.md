@@ -1,4 +1,5 @@
-Домашние работы курса Data Scientist в Нетологии. Ссылка на программу обучения: https://netology.ru/programs/data-scientis
+Домашние работы курса Data Scientist в Нетологии. 
+Ссылка на программу обучения: https://netology.ru/programs/data-scientis
 
 Период обучения: 16 июля 2020 - 23 января 2022
 

@@ -1,3 +1,7 @@
+Домашние работы курса Data Scientist в Нетологии. Ссылка на программу обучения: https://netology.ru/programs/data-scientis
+
+Период обучения: 16 июля 2020 - 23 января 2022
+
 **01_python_for_analysis** - домашние работы по модулю "Python для анализа данных" (основы работы с python, с фреймворками numpy, pandas и scikit-learn)  
 
 **02_ds_mathematics** - домашние работы по модулю "Математика для Data Science"  
